@@ -1,4 +1,4 @@
-# Frontdesk Engineering Test: Human-in-the-Loop Supervisor 
+# Human-in-the-Loop Supervisor 
 This project is a prototype for a human-in-the-loop AI receptionist. This AI agent answers FAQ-style questions for a fake salon, escalates to a human supervisor when it doesn't know the answer, and updates its knowledge base asynchronously with the new response from the supervisor. 
 
 ![System Diagram](diagram.png)
